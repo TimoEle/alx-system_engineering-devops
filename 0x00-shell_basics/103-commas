@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -famv
+ls --file-type -amv
